@@ -3,11 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Green Basket - Enquiry</title>
+    <title>Enquiry - The Green Basket</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header, footer { background: #f4f4f4; padding: 1em 2em; }
+        nav a { margin: 0 0.5em; text-decoration: none; color: #2d572c; }
+        main { padding: 2em; }
+        h1, h2 { color: #2d572c; }
+        h2 { margin-top: 1.5em; }
+        section { margin-bottom: 2em; }
+        label { color: #2d572c; font-weight: bold; }
+        input[type="text"], input[type="email"], input[type="tel"], textarea {
+            width: 100%; max-width: 400px; padding: 8px; margin-top: 4px; margin-bottom: 16px; border: 1px solid #b2d8b2; border-radius: 4px;
+            font-size: 1em;
+        }
+        input[type="submit"] {
+            background: #2d572c; color: #fff; border: none; padding: 10px 24px; border-radius: 4px; cursor: pointer; font-size: 1em;
+        }
+        input[type="submit"]:hover {
+            background: #4e944f;
+        }
+        footer { text-align: center; font-size: 0.9em; }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Enquiry Form</h1>
+        <h1> The Green Basket</h1>
         <nav>
             <a href="index.html">Home</a> |
             <a href="about.html">About Us</a> |
@@ -15,26 +36,31 @@
             <a href="enquiry.html">Enquiry</a> |
             <a href="contact.html">Contact</a>
         </nav>
+        <hr>
     </header>
 
     <main>
-        <h2>Send us your enquiry</h2>
+        <h2>Enquiry Form</h2>
+        <p>Please complete the form below and we will get back to you shortly:</p>
         <form>
-            <label for="name">Name:</label><br>
+            <label for="name">Full Name:</label><br>
             <input type="text" id="name" name="name"><br><br>
 
-            <label for="email">Email:</label><br>
+            <label for="email">Email Address:</label><br>
             <input type="email" id="email" name="email"><br><br>
 
-            <label for="message">Message:</label><br>
-            <textarea id="message" name="message" rows="5" cols="30"></textarea><br><br>
+            <label for="phone">Phone Number:</label><br>
+            <input type="tel" id="phone" name="phone"><br><br>
 
-            <button type="submit">Submit</button>
+            <label for="message">Your Enquiry:</label><br>
+            <textarea id="message" name="message" rows="5" cols="40"></textarea><br><br>
+
+            <input type="submit" value="Submit">
         </form>
     </main>
 
     <footer>
-        <p>&copy; 2025 The Green Basket</p>
+        <hr>
+        <p>&copy; 2025 The Green Basket | Kwazulu-Natal, South Africa</p>
     </footer>
 </body>
-</html>
