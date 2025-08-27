@@ -105,6 +105,8 @@ Monitor performance and fix issues.
 Milestone: Stable and up-to-date website.
 
 - Visuals of the code,sitemap,Folder structure and website
+
+
   <img width="216" height="334" alt="Screenshot 2025-08-27 175539" src="https://github.com/user-attachments/assets/84f9feee-42d0-43f3-b580-dfdc00163a17" />
   <img width="1916" height="1014" alt="Screenshot 2025-08-27 175607" src="https://github.com/user-attachments/assets/8aea3b21-fe7e-4ebd-b326-7262927127ad" />
   <img width="1913" height="1019" alt="Screenshot 2025-08-27 175626" src="https://github.com/user-attachments/assets/0267119e-ec89-4dee-b2b8-8a522a1fb011" />
