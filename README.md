@@ -6,10 +6,10 @@ HAW1
 Group 1
 
 
-Project Overview
+Project Overview:
 The Green Basket website is a fully responsive site for an organic grocery retail business based in South Africa. It is designed to promote organic groceries, build awareness about sustainable living, and provide customers with an easy way to browse products, learn about the company, and make enquiries.
 
-Folder Structure
+Folder Structure:
 index.html → Home page
 products.html → Product catalog
 about.html → About Us page
@@ -18,7 +18,7 @@ contact.html → Contact page
 css/style.css → Stylesheet (if external CSS is used)
 images/ → Folder containing apples.jpg, bananas.jpg, carrots.jpg, spinach.jpg, and background images
 
-Pages and Features
+Pages and Features:
 Home (index.html)
 Welcome banner with background image
 Navigation bar linking to all site pages
@@ -28,16 +28,16 @@ Grid layout of products (fruits and vegetables)
 Product images with short descriptions
 Responsive layout for desktop and mobile
 
-About Us (about.html)
+About Us (about.html):
 Mission and vision statements
 Company values and eco-friendly practices
 Team section highlighting staff
 
-Enquiry (enquiry.html)
+Enquiry (enquiry.html):
 Enquiry form with Name, Email, Subject, and Message fields
 Submit button (backend handling to be implemented)
 
-Contact (contact.html)
+Contact (contact.html):
 Business contact details (email, phone, address)
 Optional embedded Google Map
 Link to enquiry form
@@ -50,12 +50,12 @@ Light Green (#d9fdd3)
 Typography: Arial, sans-serif
 Layout: Responsive grid system with consistent padding and spacing
 
-Technical Requirements
+Technical Requirements:
 Developed using HTML5 and CSS
 Optimized images (preferably .webp format for performance)
 Mobile-friendly and responsive design
 
-Future enhancements include JavaScript product filters, backend form submission, and newsletter signup
+Future enhancements: include JavaScript product filters, backend form submission, and newsletter signup
 Project Timeline (Example)
 Research and Planning: 1 week
 Design and Wireframes: 1 week
@@ -64,14 +64,14 @@ Testing and Debugging: 1 week
 Deployment: 1 week
 
 
-Deployment Options
+Deployment Options:
 The website can be deployed using:
 GitHub Pages
 Netlify
 Vercel
 Standard cPanel hosting
 
-Project Timeline and Milestones
+Project Timeline and Milestones:
 Phase 1: Research and Planning (Week 1)
 Identify project goals, target audience, and competitors.
 Gather resources such as content and product images.
@@ -104,7 +104,7 @@ Regular updates for product catalog and promotions.
 Monitor performance and fix issues.
 Milestone: Stable and up-to-date website.
 
-Visuals of the code,sitemap,Folder structure and website
+Visuals of the code,sitemap,Folder structure and website:
 
 
   <img width="216" height="334" alt="Screenshot 2025-08-27 175539" src="https://github.com/user-attachments/assets/84f9feee-42d0-43f3-b580-dfdc00163a17" />
@@ -123,7 +123,7 @@ Visuals of the code,sitemap,Folder structure and website
 
 
 
-References
+References:
 
 W3C (2023). HTML & CSS Standards. Available at: https://www.w3.org/
  (Accessed: 27 August 2025).
