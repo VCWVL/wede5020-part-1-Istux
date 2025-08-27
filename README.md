@@ -114,6 +114,13 @@ Milestone: Stable and up-to-date website.
   <img width="1916" height="1020" alt="Screenshot 2025-08-27 175700" src="https://github.com/user-attachments/assets/5b145060-016e-4ece-b41a-34ef6aa7f4c9" />
   <img width="1917" height="1019" alt="Screenshot 2025-08-27 175712" src="https://github.com/user-attachments/assets/3e352600-3048-4b60-b8a1-3d5e004b081c" />
   <img width="1917" height="1015" alt="Screenshot 2025-08-27 180021" src="https://github.com/user-attachments/assets/6fbb49e9-3aa3-4a32-85d5-721c7de399f9" />
+  <img width="1912" height="975" alt="Screenshot 2025-08-27 180454" src="https://github.com/user-attachments/assets/8b16373a-4bd3-4ae8-b5bd-57c1ddbacedf" />
+  <img width="1906" height="963" alt="Screenshot 2025-08-27 180510" src="https://github.com/user-attachments/assets/fc0f4a8b-033f-4e53-9c5d-42d8911227e2" />
+  <img width="1918" height="915" alt="Screenshot 2025-08-27 180528" src="https://github.com/user-attachments/assets/79631a57-45de-40e2-9da4-35044a10cb6f" />
+  <img width="1912" height="907" alt="Screenshot 2025-08-27 180540" src="https://github.com/user-attachments/assets/f7114a7d-a46f-4702-aa3d-9265e49a84a2" />
+  <img width="1918" height="923" alt="Screenshot 2025-08-27 180608" src="https://github.com/user-attachments/assets/62e9ebf0-9eb7-4510-a245-79f2ca28bbb6" />
+
+
 
 
 - References
